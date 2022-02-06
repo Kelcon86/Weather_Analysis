@@ -9,6 +9,9 @@ After generating 2,000 random latitudes and longitudes, I retrieved the nearest 
 - Wind speed
 - Weather description
 
+![City_data_df](https://user-images.githubusercontent.com/60076980/152699849-266cd40e-6a32-49a6-af5c-8796c50bc8ec.png)
+
+
 ![WeatherPy_vacation_map](https://user-images.githubusercontent.com/60076980/152699483-105d1526-a3c3-4a31-b8da-2e9b0ac46580.png)
 
 ## Create a customer Travel Destinations Map
